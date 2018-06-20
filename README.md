@@ -7,4 +7,4 @@ git push https://github.com/ebbal/git.git master
   
 git clone https://github.com/ebbal/git.git
 
-EOF
+EOF2
